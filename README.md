@@ -8,3 +8,4 @@
 - Copy `chrome` folder to your profile folder (Go to `about:profiles` to open your default profile folder)
 - Install [Sidebery](https://addons.mozilla.org/en/firefox/addon/sidebery)
 - Import `sidebery-config.json` in Sidebery settings.
+- (Optional) Enable `Title bar` if you want to use Titlebar button
