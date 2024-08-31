@@ -1,5 +1,5 @@
 # My personal Firefox CSS
-![preview](https://files.catbox.moe/e3olof.PNG)
+![preview](https://files.catbox.moe/qe3zw2.PNG)
 
 # Installation
 - Go to `about:config`.
