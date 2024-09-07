@@ -1,9 +1,13 @@
 #TabsToolbar {
-  visibility: collapse;
+  visibility: collapse !important;
 }
 
 #sidebar-header {
   display: none;
+}
+
+#sidebar-box {  
+  min-width: 1px !important;
 }
 
 #urlbar:not([breakout-extend]) #urlbar-background {
